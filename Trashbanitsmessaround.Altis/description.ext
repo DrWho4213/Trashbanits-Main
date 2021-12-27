@@ -1,0 +1,10 @@
+// File Name: Description.sqf
+// Description: Difines for files  
+// By: DrWho
+
+class CfgFunctions {
+    #include "CfgFunctions.hpp"
+};
+
+#include "defines.hpp"
+#include "controls.hpp"

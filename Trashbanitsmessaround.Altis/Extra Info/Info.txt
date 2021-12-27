@@ -1,0 +1,2 @@
+[getPos player, 180, "B_Heli_Light_01_stripped_F", 0] call BIS_fnc_spawnVehicle;
+// Spawns a helicopter in the air
